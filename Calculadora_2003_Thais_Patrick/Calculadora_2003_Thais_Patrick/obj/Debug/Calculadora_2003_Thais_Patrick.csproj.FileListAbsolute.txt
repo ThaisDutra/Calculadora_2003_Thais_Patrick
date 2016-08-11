@@ -1,0 +1,6 @@
+C:\Users\patrick.costa\Downloads\Calculadora_2003_Thais_Patrick\Calculadora_2003_Thais_Patrick\bin\Debug\Calculadora_2003_Thais_Patrick.exe.config
+C:\Users\patrick.costa\Downloads\Calculadora_2003_Thais_Patrick\Calculadora_2003_Thais_Patrick\bin\Debug\Calculadora_2003_Thais_Patrick.exe
+C:\Users\patrick.costa\Downloads\Calculadora_2003_Thais_Patrick\Calculadora_2003_Thais_Patrick\bin\Debug\Calculadora_2003_Thais_Patrick.pdb
+C:\Users\patrick.costa\Downloads\Calculadora_2003_Thais_Patrick\Calculadora_2003_Thais_Patrick\obj\Debug\Calculadora_2003_Thais_Patrick.csprojResolveAssemblyReference.cache
+C:\Users\patrick.costa\Downloads\Calculadora_2003_Thais_Patrick\Calculadora_2003_Thais_Patrick\obj\Debug\Calculadora_2003_Thais_Patrick.exe
+C:\Users\patrick.costa\Downloads\Calculadora_2003_Thais_Patrick\Calculadora_2003_Thais_Patrick\obj\Debug\Calculadora_2003_Thais_Patrick.pdb
